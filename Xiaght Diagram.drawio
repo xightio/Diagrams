@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T15:53:19.605Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="P8OApgwM7cGF9QDRmsXY" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T15:54:31.363Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="U_mKX-GKh032WbVl6MSe" version="22.1.3" type="github">
   <diagram id="WKY5OjDPw6Oxltosxbnt" name="Page-1">
     <mxGraphModel dx="2057" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -394,6 +394,9 @@
         <mxCell id="gjqITfuBYD3FeMsKbYDt-18" value="Low Hanging Fruit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="600" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gjqITfuBYD3FeMsKbYDt-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gjqITfuBYD3FeMsKbYDt-19" target="gjqITfuBYD3FeMsKbYDt-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gjqITfuBYD3FeMsKbYDt-19" value="Low Hanging Fruit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="90" width="120" height="30" as="geometry" />
         </mxCell>
@@ -437,6 +440,12 @@
         </mxCell>
         <mxCell id="gjqITfuBYD3FeMsKbYDt-35" value="ESC1-12" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="800" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gjqITfuBYD3FeMsKbYDt-40" value="Vulnerabilities Scan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="-20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gjqITfuBYD3FeMsKbYDt-42" value="OSNIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-20" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
