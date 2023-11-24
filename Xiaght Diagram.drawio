@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T15:54:31.363Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="U_mKX-GKh032WbVl6MSe" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T15:56:34.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="6U63icGR4vRPA1Qus9GO" version="22.1.3" type="github">
   <diagram id="WKY5OjDPw6Oxltosxbnt" name="Page-1">
     <mxGraphModel dx="2057" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,6 +25,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gjqITfuBYD3FeMsKbYDt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cOA8pEIspgwsPlg7-5SU-4" target="cOA8pEIspgwsPlg7-5SU-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gjqITfuBYD3FeMsKbYDt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cOA8pEIspgwsPlg7-5SU-4" target="gjqITfuBYD3FeMsKbYDt-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cOA8pEIspgwsPlg7-5SU-4" value="APT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -397,6 +400,14 @@
         <mxCell id="gjqITfuBYD3FeMsKbYDt-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gjqITfuBYD3FeMsKbYDt-19" target="gjqITfuBYD3FeMsKbYDt-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gjqITfuBYD3FeMsKbYDt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gjqITfuBYD3FeMsKbYDt-19" target="gjqITfuBYD3FeMsKbYDt-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="50" />
+              <mxPoint x="1580" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gjqITfuBYD3FeMsKbYDt-19" value="Low Hanging Fruit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="90" width="120" height="30" as="geometry" />
         </mxCell>
@@ -446,6 +457,9 @@
         </mxCell>
         <mxCell id="gjqITfuBYD3FeMsKbYDt-42" value="OSNIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="-20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gjqITfuBYD3FeMsKbYDt-44" value="Credentials" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="325" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
