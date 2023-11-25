@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T20:54:14.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="88pnhePC8HpwKnjPLcrH" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T21:00:16.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BtwA7ImB1PYGq_s3fjfx" version="22.1.4" type="github">
   <diagram id="WKY5OjDPw6Oxltosxbnt" name="Page-1">
     <mxGraphModel dx="2359" dy="2022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -335,7 +335,12 @@
           <mxGeometry x="810" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="buJ9CacG_YuytnTNxGgd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="buJ9CacG_YuytnTNxGgd-2" target="buJ9CacG_YuytnTNxGgd-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-190" y="980" />
+              <mxPoint x="-320" y="980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="buJ9CacG_YuytnTNxGgd-2" value="PAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-250" y="885" width="120" height="60" as="geometry" />
@@ -376,8 +381,8 @@
         <mxCell id="buJ9CacG_YuytnTNxGgd-5" value="Application Control listing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="740" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="buJ9CacG_YuytnTNxGgd-19" value="?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="1005" width="120" height="30" as="geometry" />
+        <mxCell id="buJ9CacG_YuytnTNxGgd-19" value="Workstation to Servers" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="1005" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="buJ9CacG_YuytnTNxGgd-21" value="Run as admin check" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-220" y="-100" width="120" height="30" as="geometry" />
